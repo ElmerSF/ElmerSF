@@ -1,16 +1,15 @@
 ### Hi there 👋
 
 <!--
-**ElmerSF/ElmerSF** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**ElmerSF/ElmerSF** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
+Actualmente:
 
-Here are some ideas to get you started:
+*Terminando la Ingeniería en Informática en la UNED.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+*Formo parte del proyecto Especial de Programación de Video Juegos en la UNED.
+
+*Certificado como Etichal Hacking CEH por Eccounicl.
+
+*Estudios de Filosofía en la Unversidad Ponfiticia de México y en la Central de Bayamón en Puerto Rico.
+
+*Técnico medio en Mecánica Automotriz y Técnico Especialiado en Autotrónica (INA).
